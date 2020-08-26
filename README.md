@@ -1,7 +1,9 @@
-#CodeChef
+# CodeChef
 
-##Practice
-###Beginner
+## Practice
+
+### Beginner
+
 | Problem Code  | Title  | Solution  |
 | :------------: | :------------: | :------------: |
 | **LINCHESS**  | [Chef and Linear Chess](https://www.codechef.com/problems/LINCHESS "Chef and Linear Chess")  | [LINCHESS.py](https://github.com/anubhab-code/CodeChef/blob/master/Practice/Beginner/LINCHESS.py "LINCHESS.py")  |

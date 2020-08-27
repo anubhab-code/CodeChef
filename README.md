@@ -17,6 +17,18 @@
 | **PERFCONT**  | [A Balanced Contest](https://www.codechef.com/problems/PERFCONT "A Balanced Contest")  | [PERFCONT.py](https://github.com/anubhab-code/CodeChef/blob/master/Practice/Beginner/PERFCONT.py "PERFCONT.py")  |
 | **BIGSALE**  | [A Big Sale](https://www.codechef.com/problems/BIGSALE "A Big Sale")  | [BIGSALE.py](https://github.com/anubhab-code/CodeChef/blob/master/Practice/Beginner/BIGSALE.py "BIGSALE.py")  |
 | **GOODSET**  | [A Good Set](https://www.codechef.com/problems/GOODSET "A Good Set")  | [GOODSET.py](https://github.com/anubhab-code/CodeChef/blob/master/Practice/Beginner/GOODSET.py "GOODSET.py")  |
+| **HS08TEST**  | [ATM](https://www.codechef.com/problems/HS08TEST "ATM")  | [HS08TEST.py](https://github.com/anubhab-code/CodeChef/blob/master/Practice/Beginner/HS08TEST.py "HS08TEST.py")  |
+| **ATM2**  | [ATM Machine](https://www.codechef.com/problems/ATM2 "ATM Machine")  | [ATM2.py](https://github.com/anubhab-code/CodeChef/blob/master/Practice/Beginner/ATM2.py "ATM2.py")  |
+| **ADASCOOL**  | [Ada School](https://www.codechef.com/problems/ADASCOOL "Ada School")  | [ADASCOOL.py](https://github.com/anubhab-code/CodeChef/blob/master/Practice/Beginner/ADASCOOL.py "ADASCOOL.py")  |
+| **ADACRA**  | [Ada and crayons](https://www.codechef.com/problems/ADACRA "Ada and crayons")  | [ADACRA.py](https://github.com/anubhab-code/CodeChef/blob/master/Practice/Beginner/ADACRA.py "ADACRA.py")  |
+| **ADASTAIR**  | [Ada and the Staircase](https://www.codechef.com/problems/ADASTAIR "Ada and the Staircase")  | [ADASTAIR.py](https://github.com/anubhab-code/CodeChef/blob/master/Practice/Beginner/ADASTAIR.py "ADASTAIR.py")  |
+| **FLOW001**  | [Add Two Numbers](https://www.codechef.com/problems/FLOW001 "Add Two Numbers")  |   |
+| ****  |   |   |
+| ****  |   |   |
+| ****  |   |   |
+| ****  |   |   |
+| ****  |   |   |
+| ****  |   |   |
 | ****  |   |   |
 | ****  |   |   |
 | ****  |   |   |
